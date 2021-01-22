@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Shymko_HW_Lesson14_110121_Recycler_v1"
